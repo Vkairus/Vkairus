@@ -10,7 +10,37 @@ My birthday is 15/02/2007
  - 📫 How to reach me **Discord: .KuwNowe#6868**  
   
  - ⚡ Fun fact **I Like Games, Mangas and Novels** 
-  
+   <p align="center"> 
+
+ <a href="https://discord.com/users/988716699488489533"><img src="https://discord.c99.nl/widget/theme-5/988716699488489533.png" alt="discord" /></a>  
+
+ </p> 
+
+ <table style="width:100%;"align="center"> 
+
+   <tr> 
+
+     <td> 
+
+      <img src="https://pin.it/50UQFt3" alt="Phunle" width="300px"/> 
+
+     </td> 
+
+     <td> 
+
+       <p >  
+
+         <img src="https://pin.it/3Adiszc" alt="Phunle" width="300px"/> 
+
+       </p> 
+
+     </td> 
+
+   </tr> 
+
+ </table> 
+
+        
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100037079618876) 
