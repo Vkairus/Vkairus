@@ -17,11 +17,11 @@ My birthday is 15/02/2007
  <table style="width:100%;"align="center"> 
    <tr> 
      <td> 
-      <img src="https://pin.it/50UQFt3" alt="Phunle" width="300px"/> 
+      <img src="https://cdn.discordapp.com/attachments/1008766413391003688/1079051643267600494/Screenshot_20230211-191600_Lin_Qun_Mobile.png" alt="Phunle" width="300px"/> 
      </td> 
      <td> 
        </p> 
-         <img src="https://pin.it/3Adiszc" alt="Phunle" width="300px"/> 
+         <img src="https://cdn.discordapp.com/attachments/1008766413391003688/1079051643007545384/FB_IMG_1675416428889.jpg" alt="Phunle" width="300px"/> 
        </p> 
      </td> 
    </tr> 
