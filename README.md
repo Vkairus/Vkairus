@@ -41,3 +41,6 @@ My birthday is 15/02/2007
 
 ### 🥥 visitor
 
+<p align="center">
+<img src="https://count.caliphdev.my.id/get/@Vkairus?theme=rule34" alt="visitor.svg">
+</p>
