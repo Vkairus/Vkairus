@@ -39,8 +39,5 @@ My birthday is 15/02/2007
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vkairus&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vkairus&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂Random Dev Meme
-<img src="http://alpha-meme-maker.herokuapp.com/" width="512px"/>
+### 🥥 visitor
 
----
-[![](https://visitcount.itsvg.in/api?id=Vkairus&icon=0&color=0)](https://visitcount.itsvg.in)
