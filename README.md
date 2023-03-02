@@ -11,9 +11,8 @@ My birthday is 15/02/2007
   
  - ⚡ Fun fact **I Like Games, Mangas and Novels** 
  
-   <p align="center"> 
- <a href="https://discord.com/users/988716699488489533"><img src="https://discord.c99.nl/widget/theme-1/988716699488489533.png" alt="discord" /></a>  
- </p> 
+  [![Discord Presence](https://lanyard.cnrad.dev/api/988716699488489533)](https://discord.com/users/988716699488489533)
+  
  <table style="width:100%;"align="center"> 
    <tr> 
      <td> 
