@@ -40,14 +40,14 @@ My birthday is 15/02/2007
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vkairus&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vkairus&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🥥 visitor
-
-<p align="center">
-<img src="https://count.caliphdev.my.id/get/@Vkairus?theme=rule34" alt="visitor.svg">
-</p>
-
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vkairus&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🥥 visitor
+
+<p align="center">
+<img src="https://count.caliphdev.my.id/get/@Vkairus?theme=rule34" alt="visitor.svg">
+</p>
