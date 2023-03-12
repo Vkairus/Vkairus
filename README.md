@@ -33,7 +33,7 @@ My birthday is 15/02/2007
 
 <p align="center">
 
-  <a href="https://open.spotify.com/playlist/4RDSyLyCPk1UBMKAflo9MZ" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="[https://open.spotify.com/playlist/4RDSyLyCPk1UBMKAflo9MZ](https://open.spotify.com/playlist/5OscWQJuBUXWpc1qBI4J97?si=86699737221b4263)" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 
 </p>
         
