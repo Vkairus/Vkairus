@@ -3,6 +3,9 @@ Hi tui la Phunle. You can call me by vkairus
     
 My birthday is 15/02/2007
 
+## Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/988716699488489533)](https://discord.com/users/988716699488489533)
+
  - 🔭 I’m currently working in [ Owo Bot Battlefield ] 
   
  - 🌱 I’m currently learning **Python C# PHP HTML GoLang Java VueJS**  
