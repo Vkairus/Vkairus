@@ -45,3 +45,9 @@ My birthday is 15/02/2007
 <p align="center">
 <img src="https://count.caliphdev.my.id/get/@Vkairus?theme=rule34" alt="visitor.svg">
 </p>
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Vkairus&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
