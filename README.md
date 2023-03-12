@@ -1,4 +1,4 @@
-# 💫About Me :
+### 💫About Me :
 Hi tui la Phunle. You can call me by vkairus
     
 My birthday is 15/02/2007
@@ -11,7 +11,7 @@ My birthday is 15/02/2007
   
  - ⚡ Fun fact **I Like Games, Mangas and Novels** 
  
- ## Discord
+ ### Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/988716699488489533)](https://discord.com/users/988716699488489533)
 
  
@@ -29,14 +29,21 @@ My birthday is 15/02/2007
    </tr> 
  </table> 
 
+### Spotify Music
+
+<p align="center">
+
+  <a href="https://open.spotify.com/playlist/4RDSyLyCPk1UBMKAflo9MZ" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+
+</p>
         
 
-## 🌐Socials
+### 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100037079618876) 
 
-# 💻Tech Stack
+### 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-# 📊GitHub Stats :
+### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Vkairus&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vkairus&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vkairus&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
