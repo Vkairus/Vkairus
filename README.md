@@ -31,7 +31,9 @@ My birthday is 15/02/2007
 
 ### Spotify Music
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5OscWQJuBUXWpc1qBI4J97?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>    
+<p align="center">
+  <a href="[https://open.spotify.com/playlist/5OscWQJuBUXWpc1qBI4J97](https://open.spotify.com/playlist/5OscWQJuBUXWpc1qBI4J97?si=86699737221b4263)" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p> 
 
 ### 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100037079618876) 
