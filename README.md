@@ -29,11 +29,6 @@ My birthday is 15/02/2007
    </tr> 
  </table> 
 
-### Spotify Music
-
-<p align="center">
-  <a href="[https://open.spotify.com/playlist/5OscWQJuBUXWpc1qBI4J97](https://open.spotify.com/playlist/5OscWQJuBUXWpc1qBI4J97?si=86699737221b4263)" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p> 
 
 ### 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100037079618876) 
