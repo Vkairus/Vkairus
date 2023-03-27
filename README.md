@@ -1,5 +1,5 @@
 ### 💫About Me :
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat&size=25&duration=3500&color=03F700&lines=Hi+tui+la+Phunle+.+You+can+call+me+by+vkairus;Owner+OwoSelfbot;Learing+Software+Engineering+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&color=596AF7&background=FF559500&width=435&lines=Hi+tui+la+phunle+.+You+can+call+me+by+Vkairus;You+can+call+me+by+Vkairus;Im+a+free+landcer+coder;Owner+of+Owoselfbot)](https://git.io/typing-svg)
 My birthday is 15/02/2007
 
  - 🔭 I’m currently working in [ Owo Bot Battlefield ] 
