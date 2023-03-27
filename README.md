@@ -1,6 +1,5 @@
 ### 💫About Me :
-Hi tui la Phunle. You can call me by vkairus
-    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=montserrat&size=25&duration=3500&color=03F700&lines=Hi+tui+la+Phunle+.+You+can+call+me+by+vkairus;Owner+OwoSelfbot;Learing+Software+Engineering+)](https://git.io/typing-svg)
 My birthday is 15/02/2007
 
  - 🔭 I’m currently working in [ Owo Bot Battlefield ] 
